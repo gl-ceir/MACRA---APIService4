@@ -1,0 +1,920 @@
+
+p
+java:S1121Ñ".Extract the assignment out of this expression.(èª¦şûÿÿÿÿJ$aa44f173-d4e9-4129-8d8a-5313ed089c6d
+k
+java:S1121Ò".Extract the assignment out of this expression.(§«ÜJ$256670b6-cd27-438d-9b41-a3244540d8a8
+k
+java:S1121Ó".Extract the assignment out of this expression.(ÏèøÓJ$ac54855d-bb3e-42b0-a8a3-4835e906f6cd
+p
+java:S1121Ô".Extract the assignment out of this expression.(ÑùõÕûÿÿÿÿJ$4e82fd6a-c126-4f71-9c79-d4bf39bbfa7b
+p
+java:S1121Õ".Extract the assignment out of this expression.(ˆ¬ÙıúÿÿÿÿJ$e97d9fc2-a558-4d7b-9e0e-01a9aa0c01ba
+j
+java:S1121Ö".Extract the assignment out of this expression.(¹ü~J$b28d7eeb-78eb-434b-880d-028ef75c4159
+’	java:S117¾
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚàŠİüÿÿÿÿJ$ea4c0608-cead-49c4-82fd-9a07a3968d30
+	java:S117¿
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªËğ¡J$741ffd2e-a4f9-4094-8aea-b96763c6209b
+	java:S117À
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¸å…J$ba9ef9f8-c5bc-4d7d-bd22-c66f0cbcc905
+’	java:S117Á
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ü­ÂúÿÿÿÿJ$3164d7c6-96e5-4b1a-92f6-fe9b28ffdf05
+’	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ÒûÿÿÿÿJ$60205109-9db0-460e-a1a3-200d98e0d858
+’	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚàŠİüÿÿÿÿJ$8e4aee3a-dbf8-45e2-8591-f6f4ac10dccc
+	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªËğ¡J$85dcfb0e-8a4d-4bfe-b5c0-732b31a8ad3e
+	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ĞçJ$e93ff56a-0a8c-470f-816a-d339d6b81b3d
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¸å…J$694407ef-f762-47ef-8975-abb3de59aa25
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ü­ÂúÿÿÿÿJ$bfd56ea1-190c-4c13-9962-6070e82dad17
+	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷øíJ$216d7fca-a4ac-420b-8c45-0970670a87ac
+	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷øíJ$1354f9af-5447-41ec-abd9-6dc7cae38aa9
+	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‰şÁJ$d08951ab-bcd4-4b97-86ef-6fc3d33b1ce7
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôù­J$45cefcd4-4e62-43d6-b3ce-ce2126f33049
+t
+java:S2589£"7Remove this expression which always evaluates to "true"(®¯ÇäJ$c335a014-aca7-4209-a1e9-c0c7c989648b
+l
+java:S1066ó"/Merge this if statement with the enclosing one.(ŸØßÒJ$2fe48e41-074e-47eb-93d2-b30a19b0fa6b
+¯
+java:S1319Ï"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(®˜½ÎşÿÿÿÿJ$47fdde65-8a7a-4143-b2e6-c2647a7798e1
+x
+java:S4973÷"<Strings and Boxed types should be compared using "equals()".(¤íĞiJ$d177b695-9df6-4b20-a96f-df30433ca4df
+y
+java:S4973Í"<Strings and Boxed types should be compared using "equals()".(åä£İJ$caec7166-742e-4370-9c56-b5ff4663b7a6
+~
+java:S4973€	"<Strings and Boxed types should be compared using "equals()".(ù×„ºÿÿÿÿÿJ$162f429e-adfd-4361-a3bf-e24d932c0062
+y
+java:S4973†	"<Strings and Boxed types should be compared using "equals()".(¿±¨ùJ$d1cdfe45-92bc-4d5d-802d-42687be5c7a1
+y
+java:S4973‹	"<Strings and Boxed types should be compared using "equals()".(ˆëÃ§J$ca877f82-b59c-4269-a181-93482253306b
+~
+java:S4973"<Strings and Boxed types should be compared using "equals()".(£¸—ÃúÿÿÿÿJ$ac22c049-bf34-4327-a43a-dd5da153e808
+~
+java:S4973”"<Strings and Boxed types should be compared using "equals()".(àõß‹ùÿÿÿÿJ$2c208246-3949-47ec-9190-39e253ce341b
+~
+java:S4973œ"<Strings and Boxed types should be compared using "equals()".(üâŒùøÿÿÿÿJ$eb6814af-80e2-478d-a3b5-ff95e7bba94d
+x
+java:S4973¯"<Strings and Boxed types should be compared using "equals()".(“Ä›vJ$d254093c-48bf-44b9-b6c3-bab441779304
+~
+java:S4973£"<Strings and Boxed types should be compared using "equals()".(£¸—ÃúÿÿÿÿJ$d238ddaf-e1d6-41cb-8934-0b0ea1f3762c
+~
+java:S4973ª"<Strings and Boxed types should be compared using "equals()".(àõß‹ùÿÿÿÿJ$fbc33c0d-43b5-41fc-a0ae-8b03633b5135
+~
+java:S4973±"<Strings and Boxed types should be compared using "equals()".(üâŒùøÿÿÿÿJ$492b15f2-bff8-44a2-bba7-4e150d082dee
+~
+java:S4973ò"<Strings and Boxed types should be compared using "equals()".(ù×„ºÿÿÿÿÿJ$0397f8d8-fe80-457b-8527-94110e3f0d41
+y
+java:S4973ø"<Strings and Boxed types should be compared using "equals()".(¨é’ÎJ$ff5b9b00-524b-4d76-b341-4a0151344267
+€
+java:S2583–"CChange this condition so that it does not always evaluate to "true"(åÄ…©J$fc5e0155-2219-48dc-b5fe-b8de5498dd76
+€
+java:S2583¡"CChange this condition so that it does not always evaluate to "true"(åÄ…©J$f50d8c60-fd14-49cf-9cd2-a231df9bf8e1
+–
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôªÆÃJ$ad682eb7-8e90-4d95-9290-0e8f33dbf0ce
+›
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(àŸÜÌùÿÿÿÿJ$dde6e75f-2713-465b-9b2f-59f0348927af
+–
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂŠ¡ŒJ$767e695a-073e-499b-963a-76edf84d97e8
+–
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¹‹ÙJ$6e7f864f-fe30-40a4-aaa6-bae8a94cab5c
+›
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ïÒØùÿÿÿÿJ$c749c84c-f155-47ec-9afb-21b90e8acca6
+–
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$4755c92d-a894-4a60-8d15-832b2dd18b20
+–
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•¤ºJ$b751fa62-ad0d-4daa-842c-1a6164363f4f
+–
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$f7aae325-ed56-4719-a218-62653880d527
+–
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$64c9be76-16bf-4e1f-bf4a-091766228cc8
+–
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$61183185-1f7a-4001-b5e5-0fc26bb85681
+–
+java:S2293–	"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$16a9d05f-5724-4a05-bf2b-6daf6445b46f
+›
+java:S2293Ù	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶·şÿÿÿÿJ$9ce32e2d-4473-4871-9671-263a6979b8e0
+›
+java:S2293…
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶·şÿÿÿÿJ$a59d85fa-ebe4-4572-badb-d4359f72b9f2
+›
+java:S2293ª
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(í“¦ıÿÿÿÿJ$18023eac-9407-4217-9227-317f24d0bd7b
+•
+java:S2293Æ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ŠßiJ$64aee977-99ee-491b-b904-4821b601f939
+•
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ŠßiJ$dfbc0e54-c447-426c-b55d-f6a997646425
+›
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç­ÖÍşÿÿÿÿJ$a7706a1b-d8a6-4d0e-b4cf-e2ca0dbe750f
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÜ£±ûÿÿÿÿJ$e411be2e-8034-4349-b7c1-6b17ad4a9f62
+›
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÜ£±ûÿÿÿÿJ$5eb1bc81-8cb9-4f2b-b336-7f4787667d2d
+›
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ßÌòÿÿÿÿÿJ$6e5a0b71-be23-49d4-af7a-b32a02b0ae99
+–
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(èæ¥òJ$88ead739-f30a-4b75-8a00-ddf164626d6e
+–
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤J$bb3fc91f-7367-4414-8d35-d1256f62eb19
+t
+java:S2629¬"7Use the built-in formatting to construct this argument.(´Èù¾J$d4b5f543-933a-4be9-8d4d-63880e0618b9
+t
+java:S2629ó"7Use the built-in formatting to construct this argument.(ŸİæJ$e1ea61aa-c89e-4312-bec8-9d033bec1604
+y
+java:S2629¦"7Use the built-in formatting to construct this argument.(Ü‚ŠÿÿÿÿÿJ$868a5c95-40d2-414f-995f-0d74bd1ebc4a
+t
+java:S2629»"7Use the built-in formatting to construct this argument.(¬¿¦J$698537ec-0aae-4f87-b3fe-50eae604a2ae
+y
+java:S2629À"7Use the built-in formatting to construct this argument.(Ü‚ŠÿÿÿÿÿJ$70473506-b6dd-4c94-93cf-eb2559648f75
+™
+java:S2629Í"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ü¡è·J$28640db0-e1a0-454f-8999-42a1a5faa1b1
+s
+java:S2629Î"7Use the built-in formatting to construct this argument.(ƒ‚§J$77291e57-4e31-491d-9741-45f3a8c01165
+™
+java:S2629Ü"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Åû‡óJ$dba148df-d606-4557-a9ba-732f38f714ae
+™
+java:S2629İ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(á™ÃJ$be0247de-a03c-45d5-9f0d-3954b5a90429
+
+java:S2629Ş"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ùª—şÿÿÿÿJ$982f6920-d864-4136-8114-8d530f00a472
+™
+java:S2629ß"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(–ë¶J$9b0ab675-3c9b-46d7-883f-02551327dab5
+t
+java:S2629á"7Use the built-in formatting to construct this argument.(íìÇ¥J$753e8606-e2c6-407a-b13c-5a7b757a9777
+™
+java:S2629€"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ü¡è·J$9a1f3153-8cd5-41c6-a63b-a49b4328a979
+s
+java:S2629"7Use the built-in formatting to construct this argument.(ƒ‚§J$d40269fc-fccf-4765-b37f-226101285c7d
+™
+java:S2629”"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Åû‡óJ$606a3e2f-be5e-48b4-af36-1718eeb07875
+™
+java:S2629•"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(á™ÃJ$a13c5551-5545-4f55-be13-fc66d5b41a6a
+
+java:S2629–"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ùª—şÿÿÿÿJ$8d9df5de-abb8-469f-bc7f-2cdd8956ee9a
+™
+java:S2629—"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(–ë¶J$0c2d82cd-f13c-407a-96cb-5a65a799d7cd
+t
+java:S2629™"7Use the built-in formatting to construct this argument.(íìÇ¥J$3abb287f-af9e-459a-86ae-d617cbc0c54b
+y
+java:S2629à"7Use the built-in formatting to construct this argument.(Ÿå‘İÿÿÿÿÿJ$172897bd-7572-4905-b2f2-c37abdebad15
+t
+java:S2629ğ"7Use the built-in formatting to construct this argument.(§ç§÷J$626cfedd-2674-4a32-bda7-b7b2733e0932
+y
+java:S2629„"7Use the built-in formatting to construct this argument.(åèÏ‡ûÿÿÿÿJ$68b7087c-6526-41f1-b4ab-214a50c85667
+y
+java:S2629‡"7Use the built-in formatting to construct this argument.(„´‹´ùÿÿÿÿJ$f1b2974e-16b3-432c-bdbb-ddf2b01af1ce
+t
+java:S2629”"7Use the built-in formatting to construct this argument.(İÒ¾ÆJ$13e9438b-2f8b-44a6-8dd6-279f6bc40560
+s
+java:S2629–"7Use the built-in formatting to construct this argument.(åƒïJ$ffc36cb8-75c1-43de-8b7d-4207e88ada2c
+y
+java:S2629½"7Use the built-in formatting to construct this argument.(ŞïÓ‡şÿÿÿÿJ$89c8ee55-402e-4505-96d7-3f77d14b1af1
+t
+java:S2629Ä"7Use the built-in formatting to construct this argument.(îúŸğJ$b1894633-edf2-449a-9be4-3d630aff4afd
+y
+java:S2629Ç"7Use the built-in formatting to construct this argument.(ıå˜ºúÿÿÿÿJ$ab54c610-dfb0-4cb8-90cc-0d83ef2affe1
+t
+java:S2629Í"7Use the built-in formatting to construct this argument.(ŠƒÆöJ$8600361c-6830-41c3-9405-c68ef472af08
+y
+java:S2629ğ"7Use the built-in formatting to construct this argument.(ˆ×Ê®şÿÿÿÿJ$5a0d593a-31a8-4c51-ac64-b8e1276e75c1
+t
+java:S2629”"7Use the built-in formatting to construct this argument.(ïÄÕ£J$d17bfa77-ab24-4b50-bec9-357953663251
+y
+java:S2629³"7Use the built-in formatting to construct this argument.(Ó…‰®ÿÿÿÿÿJ$a6a2a698-0e44-4957-a172-694ff4c4fd45
+t
+java:S2629µ"7Use the built-in formatting to construct this argument.(ïÄÕ£J$07da73bd-45c0-4bcf-9605-238b908d0b5f
+y
+java:S2629õ"7Use the built-in formatting to construct this argument.(Œé­½øÿÿÿÿJ$4ff79e76-de39-4c59-9898-53312094ca7f
+t
+java:S2629’"7Use the built-in formatting to construct this argument.(îúŸğJ$3c4d89db-4efd-420a-ab05-bbda88b5ebb1
+y
+java:S2629•"7Use the built-in formatting to construct this argument.(ıå˜ºúÿÿÿÿJ$f3ad9bf4-af3b-4db1-b99a-25874c2eb1c8
+t
+java:S2629­"7Use the built-in formatting to construct this argument.(îúŸğJ$4db0057a-5f88-4513-bb29-88d1210563b9
+y
+java:S2629°"7Use the built-in formatting to construct this argument.(ıå˜ºúÿÿÿÿJ$03a3fc69-50cc-45d3-9280-1d82ba3c0851
+y
+java:S2629Ê"7Use the built-in formatting to construct this argument.(İÒŸèúÿÿÿÿJ$73247649-d0d8-4f79-b23e-6387146a82b9
+™
+java:S2629İ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Í¦­”J$3c2cb9a0-90bc-4b25-9ae1-9cb1c6513c26
+t
+java:S2629ì"7Use the built-in formatting to construct this argument.(›Œ¡J$a96593ee-26e6-4e31-bb13-bc74b4b1317a
+s
+java:S2629ö"7Use the built-in formatting to construct this argument.(½›—rJ$8dddd806-7897-4aa2-8ea3-9038e79ed6cf
+y
+java:S2629"7Use the built-in formatting to construct this argument.(ª¼”ÈıÿÿÿÿJ$fb05041e-eac5-4cfc-93ab-1a26751db021
+y
+java:S2629"7Use the built-in formatting to construct this argument.(ª¼”ÈıÿÿÿÿJ$86c2e46b-7657-4954-a704-0bae7ee3694f
+t
+java:S2629¹"7Use the built-in formatting to construct this argument.(ı´¿J$63b5234d-f9dc-4368-8989-8e22695ffb24
+t
+java:S2629á"7Use the built-in formatting to construct this argument.(ı´¿J$664d10e4-808b-4ab4-bd8c-826b9238d03d
+t
+java:S2629”"7Use the built-in formatting to construct this argument.(îúŸğJ$238e3fc3-74c7-42c7-a2b8-1b9944e6df33
+y
+java:S2629¦"7Use the built-in formatting to construct this argument.(úó‹ÕûÿÿÿÿJ$2b3945db-3698-47c5-986b-24925cadbfeb
+t
+java:S2629©"7Use the built-in formatting to construct this argument.(°µ„àJ$68c47caf-d445-403d-9a2c-49d2b2683faf
+t
+java:S2629Â"7Use the built-in formatting to construct this argument.(îúŸğJ$40db2bd7-38f9-4ebf-8ed8-86701d57da20
+t
+java:S2629ä"7Use the built-in formatting to construct this argument.(îúŸğJ$eb03a389-ecb2-46bf-894d-5b0c3b3cd2c5
+t
+java:S2629ñ"7Use the built-in formatting to construct this argument.(ï¦±J$b4a5e98d-a643-4d07-88e4-e184e46ab6e1
+t
+java:S2629û"7Use the built-in formatting to construct this argument.(ˆÔªŠJ$5de295b8-378c-425d-956f-2d1703da5360
+t
+java:S2629Ÿ	"7Use the built-in formatting to construct this argument.(îúŸğJ$f36a08f9-8d38-4d85-90a5-bc2b87dd062e
+t
+java:S2629¢	"7Use the built-in formatting to construct this argument.(¤û€œJ$3b6cab11-ce24-4efe-8cba-938b7b5d7712
+t
+java:S2629§	"7Use the built-in formatting to construct this argument.(¤û€œJ$f207fc1f-1248-4034-988f-f0238b06d26f
+t
+java:S2629­	"7Use the built-in formatting to construct this argument.(¤û€œJ$133cb6b7-321f-460a-a9dc-b9c9636ef849
+t
+java:S2629³	"7Use the built-in formatting to construct this argument.(¤û€œJ$8fdfcaca-0361-4647-a5de-95038bfd37eb
+t
+java:S2629º	"7Use the built-in formatting to construct this argument.(ï¦±J$5aa8f272-543e-4b1e-a403-c7f7eed2bbd3
+t
+java:S2629Ë	"7Use the built-in formatting to construct this argument.(ˆÔªŠJ$172a6c39-43e3-48d4-95aa-89091686f124
+y
+java:S2629æ	"7Use the built-in formatting to construct this argument.(üÒ©³şÿÿÿÿJ$4b2b39f0-7797-46fb-9095-e50f2f690e6b
+t
+java:S2629¤
+"7Use the built-in formatting to construct this argument.(¤û€œJ$14b2f6de-b0c1-49b5-87ec-2b6bd3cc7e32
+t
+java:S2629Å
+"7Use the built-in formatting to construct this argument.(ÚûÌæJ$87fc01de-348a-41ae-9b07-c81de081fb96
+
+java:S2629Ï
+"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¢ÉŞŞÿÿÿÿÿJ$706fa18c-84a5-430f-b692-f48e8a29f223
+t
+java:S2629Ğ
+"7Use the built-in formatting to construct this argument.(‘ÛÖ°J$f0233b24-21de-4ea3-b81a-87d003cc491c
+y
+java:S2629×"7Use the built-in formatting to construct this argument.(á¦—ŞüÿÿÿÿJ$d37bfa7f-a0b5-4d84-afa4-cb304a297741
+y
+java:S2629î"7Use the built-in formatting to construct this argument.(²Ë°ÊüÿÿÿÿJ$2ee713f1-ae99-45d2-aaf6-977126d62eac
+y
+java:S2629ó"7Use the built-in formatting to construct this argument.(ğĞñ¿ùÿÿÿÿJ$e48c0c22-1bdf-4ff2-879f-41c710ad0dc5
+y
+java:S2629ş"7Use the built-in formatting to construct this argument.(‚í¦ııÿÿÿÿJ$504203db-42ce-44ef-9c7a-78e491c2109d
+t
+java:S2629†"7Use the built-in formatting to construct this argument.(¸‘û­J$ee9b1421-7980-41cd-8bc7-d68568d21dbf
+t
+java:S2629¼"7Use the built-in formatting to construct this argument.(¤û€œJ$c9ff2810-a849-4d77-8339-f2cd60643fd6
+t
+java:S2629Ñ"7Use the built-in formatting to construct this argument.(îúŸğJ$2b6866d0-2aa5-45c7-bd8c-719fb67860cc
+y
+java:S2629Ô"7Use the built-in formatting to construct this argument.(ıå˜ºúÿÿÿÿJ$dfdc1f2e-3c90-4591-accd-bf7fd66d90ee
+t
+java:S2629ê"7Use the built-in formatting to construct this argument.(ÁƒËÀJ$329263df-f021-4dc1-a814-af8ccd216e38
+t
+java:S2629î"7Use the built-in formatting to construct this argument.(Äî«ËJ$f35227d9-5c63-4f27-8372-fa1b0cd01b8d
+t
+java:S2629ó"7Use the built-in formatting to construct this argument.(½ÉÀÙJ$9c895d26-21a6-4111-b794-8539d53b8aa6
+y
+java:S2629"7Use the built-in formatting to construct this argument.(ıÖ´ÒüÿÿÿÿJ$f9f6d67c-aa58-4e6e-ac55-52326401b976
+y
+java:S2629¬"7Use the built-in formatting to construct this argument.(ÄÇÍûÿÿÿÿJ$f2efc8a0-d61c-49e2-94c3-d22f71f69a08
+t
+java:S2629¹"7Use the built-in formatting to construct this argument.(¤û€œJ$8f67ad45-1c45-498f-b658-79176a5281e0
+t
+java:S2629¾"7Use the built-in formatting to construct this argument.(¤û€œJ$5da19b04-a08b-4fa4-a95b-36eae350745f
+t
+java:S2629Ë"7Use the built-in formatting to construct this argument.(¤û€œJ$b43dbcec-2ae9-4347-be1c-5ba1827e1d59
+y
+java:S2629‰"7Use the built-in formatting to construct this argument.(²Ë°ÊüÿÿÿÿJ$0a29d5d1-e9ab-40b1-95c6-412fd6416dda
+t
+java:S2629˜"7Use the built-in formatting to construct this argument.(¸‘û­J$4aaafcc8-3cd2-4371-b0cd-88b5cfaab0ec
+y
+java:S2629™"7Use the built-in formatting to construct this argument.(´€µÿÿÿÿÿJ$b00f612d-c584-4e9c-aa59-5513a1c0ffd2
+t
+java:S2629Ğ"7Use the built-in formatting to construct this argument.(¤û€œJ$0b545156-517b-4048-85a7-b96b7aa8a49b
+t
+java:S2629à"7Use the built-in formatting to construct this argument.(ï¦±J$4063491f-1a4f-48f2-8c51-bd58e7039c99
+y
+java:S2629é"7Use the built-in formatting to construct this argument.(òÎ‘½úÿÿÿÿJ$9d8a0c59-14c2-451c-973b-1194dfb55d84
+y
+java:S2629ë"7Use the built-in formatting to construct this argument.(Î¦§òÿÿÿÿÿJ$c36c48ce-d76a-4cca-a03c-43ed0710aea0
+t
+java:S2629ì"7Use the built-in formatting to construct this argument.(™Ş¼¤J$e88c1736-df19-4576-89b9-09ea76fd9216
+y
+java:S2629Œ"7Use the built-in formatting to construct this argument.(ÖâéøÿÿÿÿJ$25ce4c4f-a51a-475e-88de-d20b0773ded4
+t
+java:S2629"7Use the built-in formatting to construct this argument.(â¬şJ$d0677f22-2dad-44c3-9e2b-7903a1efc2fa
+t
+java:S2629³"7Use the built-in formatting to construct this argument.(ŠéŒîJ$cb42ce4e-1889-4731-9aab-69ca6ee2fe1d
+t
+java:S2629Å"7Use the built-in formatting to construct this argument.(ŠéŒîJ$3a8c41e7-d102-4921-9a7e-88d7c2244914
+y
+java:S2629ã"7Use the built-in formatting to construct this argument.(ûŠ—ŸøÿÿÿÿJ$d610dda5-ba3a-46c7-9086-69087a5e7a49
+t
+java:S2629¡"7Use the built-in formatting to construct this argument.(§†ŸÂJ$9bb23efd-cc3a-4c04-b918-b780f32835da
+w
+java:S1141â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$33798b9a-3edd-4cc1-8ef6-048f048c0b5b
+‚
+java:S2259
+"FA "NullPointerException" could be thrown; "userData" is nullable here.(ØÓ)J$003ac94d-a958-40e6-950e-af44e2f0a632
+‚
+java:S2259ö	"FA "NullPointerException" could be thrown; "userData" is nullable here.(ØÓ)J$3b681dac-2443-4109-ab7e-dc7cdd066f7f
+‚
+java:S2259Ç	"FA "NullPointerException" could be thrown; "userData" is nullable here.(ØÓ)J$adcad983-7d6e-4e9a-b208-d4500c09a79d
+œ
+java:S1192ò"_Define a constant instead of duplicating this literal "get user  data by userid below" 3 times.(¿§°¿J$98f7a0e7-dafa-4335-87e6-9084af95fd6d
+—
+java:S1192¢	"ZDefine a constant instead of duplicating this literal "response send to user:  " 11 times.(¤û€œJ$2a2856b8-9cc2-4b85-9b63-666de985f47c
+–
+java:S1192´"ZDefine a constant instead of duplicating this literal "exit from change password" 8 times.(ˆ‘ÃJ$dfe0dd9e-fb6f-44c6-a1c7-e030db2a034c
+
+java:S1192“"NDefine a constant instead of duplicating this literal "Register User" 3 times.(ˆ•ˆ•ıÿÿÿÿJ$cd899de0-71d3-4475-93ba-02ab13a0f7cd
+‹
+java:S1192‚"NDefine a constant instead of duplicating this literal "data is found" 6 times.(¶Æİ¦J$9ad588f9-8c8e-4fb9-9af9-cf94d4ac65bb
+š
+java:S1192È"]Define a constant instead of duplicating this literal "Oop something wrong happened" 3 times.(çŞ‘J$64abd4f0-15d0-45de-93ca-3b4cba986e0e
+‰
+java:S1192Ã"GDefine a constant instead of duplicating this literal "users" 10 times.(ğèÒÀùÿÿÿÿJ$aff53220-f276-4182-8bd9-75eea2f0c9a8
+
+java:S1192ã"QDefine a constant instead of duplicating this literal "if roles are IDR" 3 times.(úë¸ÍJ$0d7524ed-4ddc-4e91-b14b-0e9777921be9
+½
+java:S1192²"{Define a constant instead of duplicating this literal "going to save user passowrd in user_password_history table" 4 times.(â«õşÿÿÿÿJ$1e091c15-e52f-4536-8d1a-9d4b6b61bc02
+“
+java:S1192“"QDefine a constant instead of duplicating this literal "User Management" 24 times.(ˆ•ˆ•ıÿÿÿÿJ$d5e5878c-4c0e-40ec-bd77-b6b63ef3bdd8
+‰
+java:S1192±"LDefine a constant instead of duplicating this literal "<user_type>" 4 times.(—ˆë†J$4d95c9c7-6de1-4e5a-8dde-d908c6a60939
+†
+java:S1192±"IDefine a constant instead of duplicating this literal "<Reason>" 4 times.(—ˆë†J$b86705b5-4367-4d52-acab-3823ba63bf98
+£
+java:S1192Ç"aDefine a constant instead of duplicating this literal "notificationStatusForSms save:  " 4 times.(ıå˜ºúÿÿÿÿJ$9d8ccb8e-49d0-4ac9-b382-beade9910e5c
+†
+java:S1192¾"IDefine a constant instead of duplicating this literal "<userID>" 5 times.(ÌÀçJ$db657a16-ff3d-4cf4-9f29-b3760a88d8d0
+˜
+java:S1192Ù
+"[Define a constant instead of duplicating this literal "roles are available to add" 3 times.(”Ô†J$52ac6751-cf44-4457-9490-4d9fd5b9f3ea
+’
+java:S1192ë"UDefine a constant instead of duplicating this literal "Registration Request" 8 times.(µÎ‘¯J$4b397670-9533-440a-b53f-072875b45d4a
+ƒ
+java:S1192±"FDefine a constant instead of duplicating this literal "<otp>" 4 times.(—ˆë†J$6b0ff0e0-f6ac-46b3-affb-ef5c6595e7a3
+‡
+java:S1192©"JDefine a constant instead of duplicating this literal "$LOCAL_IP" 8 times.(ş“àùJ$63949704-810b-47cf-8d7d-a1ad9144ebed
+‰
+java:S1192İ
+"LDefine a constant instead of duplicating this literal "Distributor" 4 times.(ñ§¨êJ$c9496f07-a7af-428f-a472-fa2c753c55b9
+ 
+java:S1192¨"^Define a constant instead of duplicating this literal "Oops something wrong happened" 4 times.(˜ÙÿÿÿÿÿJ$2fc7bb3c-c875-4c6d-ae44-5fe026460d4f
+¡
+java:S1192µ"_Define a constant instead of duplicating this literal "user passowrd sucessfully save" 4 times.(× ½ğúÿÿÿÿJ$688c8daf-bfcd-4971-8077-1ccc6d62de88
+‘
+java:S1192”"TDefine a constant instead of duplicating this literal "notification save: " 4 times.(îúŸğJ$551102e4-7c96-47ac-a5b2-235ed4b54bb6
+‹
+java:S1192Ø
+"IDefine a constant instead of duplicating this literal "Retailer" 6 times.(ô½ØÒùÿÿÿÿJ$71c77add-413f-479d-b3b7-bf87f5488953
+’
+java:S1192‘"PDefine a constant instead of duplicating this literal "Change Password" 3 times.(´ÛáõùÿÿÿÿJ$e4e0f0ce-ffa9-470c-ade5-ea5658b417c8
+’
+java:S1192æ"PDefine a constant instead of duplicating this literal "if roles are ID" 4 times.(ëæî¦ûÿÿÿÿJ$6651c8b8-a0b4-4ad3-b25f-36326bd78782
+
+java:S1192é"PDefine a constant instead of duplicating this literal "if roles are IR" 5 times.(³ŞçŸJ$da3be9cf-9496-4fa6-98ea-a289a9d643d3
+†
+java:S1192±"IDefine a constant instead of duplicating this literal "<number>" 4 times.(—ˆë†J$e1b974b5-dbe8-4c90-83e9-da6ed988e028
+
+java:S1192Ñ"MDefine a constant instead of duplicating this literal "<First name>" 5 times.(¿¤ŞÖşÿÿÿÿJ$1c865fbe-1d1a-4cae-bf2e-90217e4db6c4
+’
+java:S1192Ä"UDefine a constant instead of duplicating this literal "notification save:  " 5 times.(îúŸğJ$d22c3898-f490-448e-8f21-53c743c7e060
+†
+java:S1192¬"JDefine a constant instead of duplicating this literal "user_temp" 4 times.(Õ‡úJ$1c8ddc91-6183-4d00-bb82-175885f0e871
+’
+java:S1192”"PDefine a constant instead of duplicating this literal "exception occur" 3 times.(Íóí˜ùÿÿÿÿJ$313b6533-1294-4a55-b85d-9797f2be1b64
+~
+java:S6813\"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c19017f2-47e4-474f-89ec-666b25bc4d97
+~
+java:S6813^"BRemove this field injection and use constructor injection instead.(êæÄŞJ$13df9631-049f-4428-8f3b-0ccd20d7fe7c
+~
+java:S6813`"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e6f9bac5-c769-4096-af0e-e1c88e416a84
+~
+java:S6813b"BRemove this field injection and use constructor injection instead.(êæÄŞJ$dd058432-42db-4b1f-9ff0-5ce60d06c5a5
+~
+java:S6813d"BRemove this field injection and use constructor injection instead.(êæÄŞJ$53eb9cb4-819f-4d03-a26f-dcec91ec8d39
+~
+java:S6813f"BRemove this field injection and use constructor injection instead.(êæÄŞJ$58c44bb9-335a-4e30-8fd9-345c7808bacb
+~
+java:S6813h"BRemove this field injection and use constructor injection instead.(êæÄŞJ$4334564b-de9e-456f-a758-ff15aed3abd3
+~
+java:S6813j"BRemove this field injection and use constructor injection instead.(êæÄŞJ$e0e40091-ddd7-4c01-ad64-bf1e4f171bf5
+~
+java:S6813m"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3e2aa1bd-0168-4709-baea-17841130afec
+~
+java:S6813p"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c66d8726-ca59-4fe1-bc9a-7a5dc407d1a1
+~
+java:S6813s"BRemove this field injection and use constructor injection instead.(êæÄŞJ$103d9384-44f5-4491-9acb-66b9ee446f55
+~
+java:S6813v"BRemove this field injection and use constructor injection instead.(êæÄŞJ$5b3414b2-a556-47ac-8563-608a943c96c8
+~
+java:S6813y"BRemove this field injection and use constructor injection instead.(êæÄŞJ$ed84ad4d-f4b5-4b8c-8aec-598ec43aa188
+~
+java:S6813|"BRemove this field injection and use constructor injection instead.(êæÄŞJ$af22fc90-b5cd-49ab-9e51-5f8c7cbc1fe6
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$4298608b-4300-46ca-86ef-1729e4ab9747
+
+java:S6813‚"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b885cadd-76c9-4f66-a071-8e3cd5277786
+
+java:S6813…"BRemove this field injection and use constructor injection instead.(êæÄŞJ$6e2cfd67-a405-4c8b-a2f9-51b22e22cdd6
+
+java:S6813ˆ"BRemove this field injection and use constructor injection instead.(êæÄŞJ$1d702059-924f-4d49-9e37-02717c1530e8
+
+java:S6813‹"BRemove this field injection and use constructor injection instead.(êæÄŞJ$6a1e52f9-47cc-4708-98b2-aaf64d4cae5a
+
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b183cda5-c559-4ea6-b75e-a9c2e8e9b453
+
+java:S6813‘"BRemove this field injection and use constructor injection instead.(êæÄŞJ$677d21aa-948f-480f-beba-0ade6ff2e1c6
+
+java:S6813”"BRemove this field injection and use constructor injection instead.(êæÄŞJ$d2b67f94-0367-4952-9ceb-81d4c1293da3
+
+java:S6813—"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7af7a3af-5c5a-43d1-a9ad-5a8691b2d004
+
+java:S6813š"BRemove this field injection and use constructor injection instead.(êæÄŞJ$539b4e44-d4b9-4704-abc3-97c0fa73429d
+
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a9d61ba2-abbb-4ec7-aff6-7ba7dfa299ba
+
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞJ$5ca54023-ee09-40d4-8dae-0216dabe1dcc
+
+java:S6813£"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2c05ec1b-6f90-4815-a84e-d13ee8d79e9e
+
+java:S6813¦"BRemove this field injection and use constructor injection instead.(êæÄŞJ$db69f7e3-0472-446c-9d41-68ab1e409583
+x	java:S107ñ"<Method has 9 parameters, which is greater than 7 authorized.(ºÓÑ£J$c05e5076-cfec-489e-b1f2-57319a4e782b
+c
+java:S1452©"&Remove usage of generic wildcard type.(İ¥µØJ$398417f2-2df2-4cee-b130-8c1fad8c2b64
+~
+java:S3457¬"AFormat specifiers should be used instead of string concatenation.(´Èù¾J$4a201c50-e250-41ca-a0dc-b9102907c386
+}	java:S125¯"<This block of commented-out lines of code should be removed.(ŞéÆ«úÿÿÿÿJ$b604e122-93f6-4cc1-8b87-ec327ea23815
+w	java:S125´"<This block of commented-out lines of code should be removed.(•â¾fJ$3d95bbdd-02cc-4528-980a-0576319caf92
+x	java:S125¶"<This block of commented-out lines of code should be removed.( Ï«J$36f32270-0d64-4062-a2de-45a61b8891a7
+}	java:S125¿"<This block of commented-out lines of code should be removed.(ø˜øøÿÿÿÿJ$c4328e0c-575a-4df1-ae1b-f51adf75271c
+c
+java:S1452Î"&Remove usage of generic wildcard type.(ôŒÂÚJ$2681993e-9c64-4971-a973-840879336e52
+c
+java:S1452Ü"&Remove usage of generic wildcard type.(îŒı“J$d716f08f-1f7c-4265-88df-5a45affd31da
+c
+java:S1452ñ"&Remove usage of generic wildcard type.(ŞşÏ–J$386deac4-a59f-4c05-b52e-cd02361f79f4
+~
+java:S3457ó"AFormat specifiers should be used instead of string concatenation.(ŸİæJ$d1f3d089-15e3-45c5-b66d-db870b8c1314
+d
+java:S1125û"'Remove the unnecessary boolean literal.(¢«ÎùJ$8bf4a62c-6102-44e1-9d7f-ddc2ed8a6eeb
+h
+java:S1452"&Remove usage of generic wildcard type.(ÒÑËëûÿÿÿÿJ$a62cf4dd-0d30-4e97-8c8d-daabecd35a20
+l
+java:S1197›"*Move the array designators [] to the type.(ø—ú´ıÿÿÿÿJ$ddf51e9b-f8da-4e45-a679-4e53e4f83e92
+ƒ
+java:S3457¦"AFormat specifiers should be used instead of string concatenation.(Ü‚ŠÿÿÿÿÿJ$ed449bcc-576a-4855-94bb-672aec7799e7
+f
+java:S1197¯"*Move the array designators [] to the type.(Ää®J$bbf84dc6-0a79-4692-a288-c6d09b84d1c3
+~
+java:S3457»"AFormat specifiers should be used instead of string concatenation.(¬¿¦J$ca945756-ee4e-4af5-94f1-f5dd2b7f8863
+ƒ
+java:S3457À"AFormat specifiers should be used instead of string concatenation.(Ü‚ŠÿÿÿÿÿJ$14e14286-22d9-4719-a992-a1c376ff1773
+l
+java:S1197Ê"*Move the array designators [] to the type.(Ë¿„ ùÿÿÿÿJ$75ce95d1-6f3d-4dfb-bb50-a875871d9230
+~
+java:S3457Í"AFormat specifiers should be used instead of string concatenation.(ü¡è·J$124e0feb-8b5e-4409-905f-bd8c6aa5b092
+}
+java:S3457Î"AFormat specifiers should be used instead of string concatenation.(ƒ‚§J$5f774f60-08ad-4286-ba1f-1cc1fc7d1219
+g
+java:S1197×"*Move the array designators [] to the type.(éİË¹J$2d7702ba-d701-4da6-a63c-eda7d06bb1a9
+g
+java:S1197Ø"*Move the array designators [] to the type.(ØÛşŠJ$cd89c5b5-a704-4a5a-8871-d8d56b265f9c
+g
+java:S1197Ù"*Move the array designators [] to the type.(ƒÕìŸJ$71399463-c9c3-41c8-af47-ec982cc3f954
+g
+java:S1197Ú"*Move the array designators [] to the type.(«¦«‹J$b9889df0-436d-44c4-be30-13010048b640
+~
+java:S3457Ü"AFormat specifiers should be used instead of string concatenation.(Åû‡óJ$83a5aa59-8e7a-4cff-af25-5538b40a302a
+~
+java:S3457İ"AFormat specifiers should be used instead of string concatenation.(á™ÃJ$ac1d44e4-75bc-423a-9d52-aebf77dcb3c4
+ƒ
+java:S3457Ş"AFormat specifiers should be used instead of string concatenation.(Ùª—şÿÿÿÿJ$876c9323-a6aa-4709-beef-4987748a866f
+~
+java:S3457ß"AFormat specifiers should be used instead of string concatenation.(–ë¶J$2d550c68-a1b7-44bf-ae63-fc73f0c6ab66
+~
+java:S3457á"AFormat specifiers should be used instead of string concatenation.(íìÇ¥J$880bd685-fa15-401a-b3fc-cc8d0e130afc
+
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Òİ­¨J$26ae4bb9-45cc-487d-a30a-d7b9c349eb10
+g
+java:S1197ı"*Move the array designators [] to the type.(Òİ­¨J$d828bfa3-f654-4519-9884-8111cb34d273
+~
+java:S3457€"AFormat specifiers should be used instead of string concatenation.(ü¡è·J$ca15257b-87fb-421f-8f9a-3d38248fe693
+}
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ƒ‚§J$9906b876-572f-4899-9d1f-3ad9aabbbdb4
+g
+java:S1197"*Move the array designators [] to the type.(éİË¹J$21c5fc49-554a-4119-bde8-cfc1fe693082
+g
+java:S1197"*Move the array designators [] to the type.(ØÛşŠJ$cad0c22d-6b1c-433f-8c59-237da7917365
+g
+java:S1197‘"*Move the array designators [] to the type.(ƒÕìŸJ$4d3416e8-9b8e-4add-b5c7-37c5df32236f
+g
+java:S1197’"*Move the array designators [] to the type.(«¦«‹J$4bd6535e-2a5d-4b3c-85c8-77723b1a94e1
+~
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(Åû‡óJ$ba81b00f-b8ef-4f23-9c5a-acae081ddaa8
+~
+java:S3457•"AFormat specifiers should be used instead of string concatenation.(á™ÃJ$a234c343-be6a-4476-8dbc-3b13be74fcfe
+ƒ
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(Ùª—şÿÿÿÿJ$4d258c9f-cec4-4ba9-bb67-557a0deb287d
+~
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(–ë¶J$f4fab99c-b2e4-4f17-9cf8-58a0c4790fe2
+~
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(íìÇ¥J$1e146be5-bf4a-49d9-85c4-a6d327ea8b9a
+^
+java:S1116Ì"Remove this empty statement.(Åñ­õşÿÿÿÿJ$54a966f5-38ce-4c1e-9d27-9bc640756918
+ƒ
+java:S3457Ò"AFormat specifiers should be used instead of string concatenation.(Ê­Ÿ„øÿÿÿÿJ$a634621e-052a-4598-a54c-625e14bb7617
+ƒ
+java:S3457Ó"AFormat specifiers should be used instead of string concatenation.(”´ÒüÿÿÿÿJ$578e34bd-e383-44c8-ac2e-c848bb99123a
+~
+java:S3457Ù"AFormat specifiers should be used instead of string concatenation.(ˆ•¼ËJ$857d8b9e-2cb4-48ce-90b6-c298a2ab0f00
+ƒ
+java:S3457à"AFormat specifiers should be used instead of string concatenation.(Ÿå‘İÿÿÿÿÿJ$44350727-e862-4f57-b480-4dfac76c713a
+^
+java:S1116ë"Remove this empty statement.(Åñ­õşÿÿÿÿJ$bbf8fdbe-0de6-43ba-ad92-a1a507374e26
+
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Æ øºJ$e2cfc804-d17e-468b-947b-35b188652035
+c
+java:S1452î"&Remove usage of generic wildcard type.(Æ øºJ$f9fc529e-d4a8-47e7-a721-9661136ead3f
+~
+java:S3457ğ"AFormat specifiers should be used instead of string concatenation.(§ç§÷J$5151770e-aa22-4495-9670-3036cb176778
+l
+java:S1197ô"*Move the array designators [] to the type.(Ê·¤ºùÿÿÿÿJ$f8e8e807-a2b5-40d3-9017-efb0373cecbe
+ƒ
+java:S3457„"AFormat specifiers should be used instead of string concatenation.(åèÏ‡ûÿÿÿÿJ$1c4bc448-ee98-44ff-b6b4-1f292142fba6
+ƒ
+java:S3457‡"AFormat specifiers should be used instead of string concatenation.(„´‹´ùÿÿÿÿJ$27ebbdad-cd6e-4f7d-bd0e-66a2cf4d1ae4
+~
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(İÒ¾ÆJ$958a0289-0533-4957-b9cf-40f3d68fbc72
+}
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(åƒïJ$53c7bfea-1551-4f58-ab6a-97ba2bdf4d3d
+ƒ
+java:S3457½"AFormat specifiers should be used instead of string concatenation.(ŞïÓ‡şÿÿÿÿJ$3203a2a0-9e90-4740-b6bd-5fa9612f6153
+~
+java:S3457Ä"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$50462feb-5f27-49bd-b013-a8bd9bd2a8e7
+ƒ
+java:S3457Ç"AFormat specifiers should be used instead of string concatenation.(ıå˜ºúÿÿÿÿJ$990d2277-9c78-49e0-a2a0-0a93ff795fe3
+~
+java:S3457Í"AFormat specifiers should be used instead of string concatenation.(ŠƒÆöJ$7fe8e07b-d8f9-41d4-963d-01a8163a19f8
+h
+java:S1452í"&Remove usage of generic wildcard type.(æŒ¸ÚÿÿÿÿÿJ$e7d599d3-4c33-4153-94c3-1294611e04e0
+ƒ
+java:S3457ğ"AFormat specifiers should be used instead of string concatenation.(ˆ×Ê®şÿÿÿÿJ$03cd643f-efbd-4b49-8a2e-1015c9370b65
+x	java:S125ô"<This block of commented-out lines of code should be removed.(¯Ã¦’J$a54618df-1b4f-470e-a720-f79764783a69
+c
+java:S1452‘"&Remove usage of generic wildcard type.(ô€¨‚J$180647a6-5793-48cb-b192-8e36e249b68c
+~
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(ïÄÕ£J$7f024a49-9add-460f-abe6-ad21da5dcc38
+”
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œĞ²ÜÿÿÿÿÿJ$e97fc207-2b45-467a-9442-364b0d666a8a
+h
+java:S1452±"&Remove usage of generic wildcard type.(œĞ²ÜÿÿÿÿÿJ$84cd4229-397c-463f-81f8-19bbcea1e874
+ƒ
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(Ó…‰®ÿÿÿÿÿJ$ed034556-81e8-4e18-a92c-e1e9ed39bc0c
+~
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(ïÄÕ£J$896da7f6-1e62-494a-afc1-33e76a0af543
+~
+java:S3457½"AFormat specifiers should be used instead of string concatenation.(æ·ŠÿJ$946141e4-7d2d-4925-b3a9-bad26a51bd77
+ƒ
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(³¢ØõıÿÿÿÿJ$e5126a78-b096-471f-b057-7806c7cd738d
+}	java:S125Ò"<This block of commented-out lines of code should be removed.(”ïşÕıÿÿÿÿJ$d97aa668-2cf9-4d67-9fa2-d6cb154eb805
+}	java:S125Ö"<This block of commented-out lines of code should be removed.(º¬æ’şÿÿÿÿJ$55b11b2c-d2fa-4d2f-8555-b1a37d7902b9
+ƒ
+java:S3457õ"AFormat specifiers should be used instead of string concatenation.(Œé­½øÿÿÿÿJ$8afa8c16-3cdf-4c16-808d-c96830f8ec4a
+c
+java:S1452‡"&Remove usage of generic wildcard type.(ÌÁØJ$21555de8-d56c-410b-90a7-16cd368bcc6c
+~
+java:S3457’"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$28bdabd0-b1fb-4933-ab03-f711b0f9cbb5
+ƒ
+java:S3457•"AFormat specifiers should be used instead of string concatenation.(ıå˜ºúÿÿÿÿJ$57cc32c8-c4ae-4d9b-b438-5d482598d847
+h
+java:S1452¤"&Remove usage of generic wildcard type.(«ÈÄÉøÿÿÿÿJ$7ecda4d2-7bd1-4d11-b182-d7bb040c8ec7
+~
+java:S3457­"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$a8c98785-b7cd-4da5-bfdd-6764358987de
+ƒ
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(ıå˜ºúÿÿÿÿJ$dfa5fc46-d149-4b8c-a8e8-389cbd1f721e
+}
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(ÏÀ1J$047f8060-7df7-4277-811e-02d6da172c57
+b
+java:S1452Æ"&Remove usage of generic wildcard type.(Ş¹ƒ5J$f1e7da77-8a50-4f37-82ce-ba74e448f900
+ƒ
+java:S3457Ê"AFormat specifiers should be used instead of string concatenation.(İÒŸèúÿÿÿÿJ$1ab17c4f-9a48-4441-b4aa-daa260530017
+~
+java:S3457İ"AFormat specifiers should be used instead of string concatenation.(Í¦­”J$efa742a0-1df6-487f-a4c7-e3b8df70c836
+ƒ
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(×·Ã„øÿÿÿÿJ$33912ba4-e03e-46db-b5dd-6705e52f5ee4
+~
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(›Œ¡J$03671882-de2e-4fcb-b551-ffea9569aff0
+~
+java:S3457ğ"AFormat specifiers should be used instead of string concatenation.(ÿó†íJ$8a89a536-48a2-4d1c-b9e8-caf51993a42c
+~
+java:S1117ñ"<Rename "alertDb" which hides the field declared at line 163.(¤úæşÿÿÿÿJ$557a8453-5070-4d10-a715-ab050f90c373
+}
+java:S3457ö"AFormat specifiers should be used instead of string concatenation.(½›—rJ$851c1e08-b83c-4321-90e4-60ba44b50ece
+c
+java:S1452Œ"&Remove usage of generic wildcard type.(ø…¼J$8e92f437-7915-49a0-87e0-612e3b1e5d97
+ƒ
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ª¼”ÈıÿÿÿÿJ$e9a48d56-f063-4ba8-a885-70a55b42eece
+h
+java:S1452›"&Remove usage of generic wildcard type.(Íš¿ÃıÿÿÿÿJ$06f5ef57-21a5-4aed-b544-ee5b6def1ee2
+ƒ
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ª¼”ÈıÿÿÿÿJ$37d3a1b2-1c9f-4ac0-98e4-ce8bd6f4f1cf
+}	java:S125 "<This block of commented-out lines of code should be removed.(ÏÙÎ±üÿÿÿÿJ$dd519702-227e-4bdc-a726-e50b514f9566
+c
+java:S1452­"&Remove usage of generic wildcard type.(ŒÇéJ$5c804d33-3bcc-43a4-9d73-18dc28fbe7e0
+d
+java:S1125°"'Remove the unnecessary boolean literal.(á¹¨J$60e75519-e873-4d87-9969-490d454b1019
+~
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(ı´¿J$92137085-ee59-43f0-bc7e-8838e0953318
+h
+java:S1452Õ"&Remove usage of generic wildcard type.(óè¨íûÿÿÿÿJ$e339f770-8868-4d3a-86bd-4a1c41ce45a4
+d
+java:S1125Ø"'Remove the unnecessary boolean literal.(á¹¨J$a5d6f37c-4c6c-4f14-b7b6-2427fe9fb3c1
+~
+java:S3457á"AFormat specifiers should be used instead of string concatenation.(ı´¿J$6e5593f7-fba0-4a60-b73c-552443d7897c
+h
+java:S1452ı"&Remove usage of generic wildcard type.(ÚŸ»¨üÿÿÿÿJ$2b5c6fd4-0a73-48af-ba03-8e4833659d81
+~
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$0d16e3da-d70b-4f91-b885-dcfa0f0fdfa4
+b
+java:S1452Ÿ"&Remove usage of generic wildcard type.(ÏòéJ$742bf6d9-f292-4874-a669-fb3ff2c2a38a
+~
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(°£×J$2807bdc5-9b9e-43a2-b4ef-55e0c43846f0
+ƒ
+java:S3457¦"AFormat specifiers should be used instead of string concatenation.(úó‹ÕûÿÿÿÿJ$5862e3bc-b848-47f1-b971-fc3509262353
+~
+java:S3457©"AFormat specifiers should be used instead of string concatenation.(°µ„àJ$b4470aa3-4732-4d37-b166-d1cd9b271133
+~
+java:S3457Â"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$aaead70b-3682-4b00-90c7-d59905cc16b4
+c
+java:S1452Í"&Remove usage of generic wildcard type.(„¥…¢J$de11c0dd-b7bb-4215-a877-dadeba362358
+~
+java:S3457ä"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$070c0e61-4fd9-4ba5-9755-ecdf1b6fe835
+”
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÓÁ€ûÿÿÿÿJ$d6047648-2dde-4abf-9bd9-ee03be407413
+€
+java:S1854ş">Remove this useless assignment to local variable "subFeature".(­“âáÿÿÿÿÿJ$2b78b8ce-f410-4d01-9db5-8c74420d832a
+}
+java:S1854„	";Remove this useless assignment to local variable "subject".(Û¨†§ûÿÿÿÿJ$452c8b22-f906-4175-b93a-9632a6012836
+x
+java:S1854Š	";Remove this useless assignment to local variable "subject".(Ğ›–J$aa9c536c-0905-43de-9cd4-b220c5e9a513
+x
+java:S1854	";Remove this useless assignment to local variable "subject".(àÜ€ëJ$6597580a-dcce-4f0e-9041-19abc365b30f
+h
+java:S1452ï"&Remove usage of generic wildcard type.(ÓÁ€ûÿÿÿÿJ$8198c52f-dbed-41a4-b8e3-b67cbd025ebf
+~
+java:S3457ñ"AFormat specifiers should be used instead of string concatenation.(ï¦±J$d99095a3-75ad-4ce1-acb4-35eeae801fa2
+~
+java:S3457û"AFormat specifiers should be used instead of string concatenation.(ˆÔªŠJ$0f410785-1e33-4b86-9b84-66c36052b46c
+b
+java:S2129ş" Remove this "String" constructor(­“âáÿÿÿÿÿJ$9d6a0a60-8035-4022-baf6-680f738ad8e6
+n
+java:S1481ÿ",Remove this unused "subject" local variable.(óÓ€âÿÿÿÿÿJ$fb94dcfc-a02a-4572-9cf7-09fe9e23a7ce
+}
+java:S3457’	"AFormat specifiers should be used instead of string concatenation.(¼¤“eJ$141933a8-f76e-447f-bff9-fd68992631b2
+~
+java:S3457Ÿ	"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$ca4d1e6c-7dc5-4220-8182-9360d15faddb
+~
+java:S3457¢	"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$ee10a313-235b-484c-8c0d-c22a58000e48
+~
+java:S3457§	"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$32891b92-747d-42c0-ba39-0708f9f5ba33
+~
+java:S3457­	"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$c22970d8-c49b-46d9-a4d1-94292faa2be4
+~
+java:S3457³	"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$25b27095-b349-4b15-a9ca-1ab9da2ae6cd
+
+java:S3776¸	"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(İ¹ÓôJ$267c8468-6643-4497-9505-cafa1702cf19
+c
+java:S1452¸	"&Remove usage of generic wildcard type.(İ¹ÓôJ$21540491-88c4-46ac-8586-6d86fc42b2c0
+~
+java:S3457º	"AFormat specifiers should be used instead of string concatenation.(ï¦±J$3f0c14eb-f026-4ef3-a07e-cd2097c19963
+~
+java:S3457Ë	"AFormat specifiers should be used instead of string concatenation.(ˆÔªŠJ$cf401f0b-4a60-4768-9a0d-521d0d3a0a4c
+ƒ
+java:S3457æ	"AFormat specifiers should be used instead of string concatenation.(üÒ©³şÿÿÿÿJ$7be5ad1e-be6f-4496-87c5-936601a423ba
+d
+java:S1125ç	"'Remove the unnecessary boolean literal.(‡¦¼ƒJ$183d2f30-5549-40d3-9ce1-e9b6cbad30da
+~
+java:S3457¤
+"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$f110850f-de5e-494b-8bfc-84b5d6f12a6a
+{
+java:S1854±
+">Remove this useless assignment to local variable "rolesArray".(ùáòßJ$999aa757-198c-4764-9476-afda358fa8fd
+ƒ
+java:S3457¬
+"AFormat specifiers should be used instead of string concatenation.(ëÒ¸ùşÿÿÿÿJ$dae24466-8e9c-4138-ab94-066acee2e104
+c
+java:S1168¸
+"&Return an empty array instead of null.(¥¹ïJ$9a8aaa5e-d255-4dfa-9a5f-a2e822078d8f
+”
+java:S3776½
+"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ŠÑ·ùÿÿÿÿJ$6aba80c9-d833-4ab6-b302-97f2595d3a31
+h
+java:S1452½
+"&Remove usage of generic wildcard type.(ŠÑ·ùÿÿÿÿJ$caaf06f9-b1d0-434c-ad1b-9bbf59e5230f
+l
+java:S1197¾
+"*Move the array designators [] to the type.(ÚàŠİüÿÿÿÿJ$fc6a58ab-09ca-4372-82b2-c84c9b387a59
+g
+java:S1197¿
+"*Move the array designators [] to the type.(ªËğ¡J$b9747860-2131-4855-8a41-d7b3ae8c0f48
+g
+java:S1197À
+"*Move the array designators [] to the type.(à¸å…J$0fdb5593-e4e7-4dd6-bd2b-440b8594b85f
+l
+java:S1197Á
+"*Move the array designators [] to the type.(¿Ü­ÂúÿÿÿÿJ$2ede02d5-f9bf-404e-bcb9-d3787f0c9283
+~
+java:S3457Å
+"AFormat specifiers should be used instead of string concatenation.(ÚûÌæJ$15446a8e-24de-4ab4-803b-0b25557fa77f
+‹
+java:S1871"NThis branch's code block is the same as the block for the branch on line 1405.(å¥‡J$4c7c64ca-b3c1-4bbb-a275-7ab7ed7fd905
+g
+java:S1197È
+"*Move the array designators [] to the type.(ÅÚ¤ÂJ$fcc3ab30-23ad-418a-8a7d-6a62d0fd863c
+ƒ
+java:S3457Ï
+"AFormat specifiers should be used instead of string concatenation.(¢ÉŞŞÿÿÿÿÿJ$9bd16a93-0640-4dfa-a6e8-ada68404e942
+~
+java:S3457Ğ
+"AFormat specifiers should be used instead of string concatenation.(‘ÛÖ°J$17d62737-9645-4df7-90c8-3f4420b63dc2
+g
+java:S1197í
+"*Move the array designators [] to the type.(ÅÚ¤ÂJ$3102a8a0-5a8b-46ba-b4e4-02312b242a62
+
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÛóÃJ$398224d7-ca7b-4bc9-91da-57819297f02a
+w
+java:S1854"5Remove this useless assignment to local variable "D".(¿Ü­ÂúÿÿÿÿJ$73ecec15-8a2f-498d-ac83-ca105828db26
+r
+java:S1854"5Remove this useless assignment to local variable "I".(à¸å…J$0f121fa1-b095-4caa-bb8d-086dc9ba08fe
+c
+java:S1452ˆ"&Remove usage of generic wildcard type.(ÛóÃJ$14a9e878-0088-45f7-aa7f-907f15188862
+l
+java:S1197‰"*Move the array designators [] to the type.(ã£ÒûÿÿÿÿJ$d831cc2b-a7c8-4f86-a26a-8ebb30e3020b
+l
+java:S1197Š"*Move the array designators [] to the type.(ÚàŠİüÿÿÿÿJ$6d6e37dd-16f2-4373-b263-15ae7da333e9
+g
+java:S1197‹"*Move the array designators [] to the type.(ªËğ¡J$fe0d00c6-c2dc-4405-843b-700c9ee97938
+g
+java:S1197Œ"*Move the array designators [] to the type.(¬ĞçJ$b80fca45-93e6-445a-a139-d33bd7dc745d
+g
+java:S1197"*Move the array designators [] to the type.(à¸å…J$31a3bcdb-3608-4f82-9854-d0bcc407676b
+c
+java:S1481"&Remove this unused "I" local variable.(à¸å…J$3b4913ca-c6e1-4864-97e9-1c13656aae17
+l
+java:S1197"*Move the array designators [] to the type.(¿Ü­ÂúÿÿÿÿJ$06b31c50-0324-4e42-b119-f1260c2ec4f7
+h
+java:S1481"&Remove this unused "D" local variable.(¿Ü­ÂúÿÿÿÿJ$b1fae7d1-d8d6-4a5d-bdd1-9fcad2bebd1b
+‹
+java:S1871Ì"NThis branch's code block is the same as the block for the branch on line 1480.(å¥‡J$5aa45790-e82b-46da-8a25-3d5aac295fca
+g
+java:S1197•"*Move the array designators [] to the type.(ÅÚ¤ÂJ$1a8a5afa-0cc7-445a-ba7d-d9ae9bc4bc18
+g
+java:S1197·"*Move the array designators [] to the type.(ÅÚ¤ÂJ$b919ae64-e5ef-4cd3-a0f9-53994d1c2ccc
+h
+java:S1452Ó"&Remove usage of generic wildcard type.(€²ßØşÿÿÿÿJ$2073a4ec-95d6-4e35-83f2-60044178a715
+x	java:S125Ô"<This block of commented-out lines of code should be removed.(¾¬•ôJ$a4921f44-887c-4578-a742-d298cb05599c
+ƒ
+java:S3457×"AFormat specifiers should be used instead of string concatenation.(á¦—ŞüÿÿÿÿJ$c4816854-3ce3-4480-b2fc-a4ddb3dd1569
+”
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(§Ò·ÑúÿÿÿÿJ$aae7ceab-75f4-4fc0-8a0e-6ba45859f8fc
+t
+java:S1854‡"7Remove this useless assignment to local variable "arr".(õßÏ¢J$1d010657-6d8f-4506-b176-e12315b5143b
+h
+java:S1452ë"&Remove usage of generic wildcard type.(§Ò·ÑúÿÿÿÿJ$3a4e7a11-7987-4b0c-b3f0-076bb7543ffa
+ƒ
+java:S3457î"AFormat specifiers should be used instead of string concatenation.(²Ë°ÊüÿÿÿÿJ$0f92a92d-97ff-4e82-a144-f4f9767f9383
+ƒ
+java:S3457ó"AFormat specifiers should be used instead of string concatenation.(ğĞñ¿ùÿÿÿÿJ$1e170839-6c76-4c11-9326-d6db8e3e0947
+ƒ
+java:S3457ş"AFormat specifiers should be used instead of string concatenation.(‚í¦ııÿÿÿÿJ$45dfbe3b-28c0-4bba-8126-07da08146473
+~
+java:S3457†"AFormat specifiers should be used instead of string concatenation.(¸‘û­J$826015f3-31e9-4c78-9627-376e807ad9d2
+~
+java:S3457¼"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$5e4f9076-4b57-4378-8bdd-ee5018637c71
+~
+java:S3457Ñ"AFormat specifiers should be used instead of string concatenation.(îúŸğJ$0240033d-a916-4070-b4e5-27b474e29f12
+ƒ
+java:S3457Ô"AFormat specifiers should be used instead of string concatenation.(ıå˜ºúÿÿÿÿJ$d5221d9e-f765-4d35-9704-d2190269be53
+ƒ
+java:S3457×"AFormat specifiers should be used instead of string concatenation.(±÷ÈÌÿÿÿÿÿJ$2e84fdb1-5756-4f02-bb44-cefc7937acb2
+”
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ä›óÛûÿÿÿÿJ$8be371d0-f0a3-4b8a-8205-c49683ed1660
+h
+java:S1452æ"&Remove usage of generic wildcard type.(ä›óÛûÿÿÿÿJ$37658e33-c987-4c0f-b85a-5faa90a21920
+~
+java:S3457ê"AFormat specifiers should be used instead of string concatenation.(ÁƒËÀJ$6ed93d4c-5844-4a94-91b3-ec8d3b2e5feb
+~
+java:S3457î"AFormat specifiers should be used instead of string concatenation.(Äî«ËJ$0ab7c7ae-37ea-417b-9c06-062968f042a3
+}	java:S125ğ"<This block of commented-out lines of code should be removed.(ü¾‘şÿÿÿÿJ$dbc86ae1-5a37-4c1e-bfe3-f3a6c69cb978
+~
+java:S3457ó"AFormat specifiers should be used instead of string concatenation.(½ÉÀÙJ$712b3846-4245-4782-a984-6ed5625a83bd
+ƒ
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ıÖ´ÒüÿÿÿÿJ$fb5474aa-112b-4ff1-819e-1055dcffef32
+}	java:S125¢"<This block of commented-out lines of code should be removed.(å¼À€úÿÿÿÿJ$53b137d9-30b9-4545-bc69-731a8ea8dd58
+ƒ
+java:S3457¬"AFormat specifiers should be used instead of string concatenation.(ÄÇÍûÿÿÿÿJ$529dc5b8-2c6b-4d07-9605-3c50d3929e31
+~
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$2ccd566e-2808-4ac2-868a-178de3c3816b
+~
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$bd81d33d-bc20-4df5-855d-d1e39b9a1eeb
+}	java:S125Á"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿJ$18989078-980d-460d-8aba-8743accba3c6
+~
+java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$13fd806b-1672-4a2d-afab-510fd8a91b33
+~
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$8c06cdd9-fde5-4eb1-8c29-d9a65cc074a2
+
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(Ç©º±J$4b7dc1b8-ce03-43fb-9664-5542d6812e1e
+t
+java:S1854›"7Remove this useless assignment to local variable "arr".(õßÏ¢J$94ab250c-8a87-4cda-a28a-7746e06a87dc
+c
+java:S1452†"&Remove usage of generic wildcard type.(Ç©º±J$95aa7bf1-857c-4ada-a4d2-85547696f24e
+ƒ
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(²Ë°ÊüÿÿÿÿJ$f876f729-4a83-42fd-8a28-42abc067c2b7
+~
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(¸‘û­J$a9293176-1e85-42ca-a425-2419c9c74907
+ƒ
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(´€µÿÿÿÿÿJ$c3913bcc-4ecf-43b6-b83b-dd7e7bff66b1
+~
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(¤û€œJ$adabaacc-b106-4250-90ac-f331691fc3f6
+	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ª¡­úÿÿÿÿJ$7d9c2bef-58c4-40a0-abbc-307ba2d15132
+x
+java:S1854õ";Remove this useless assignment to local variable "subject".(ùÉò·J$308ecd5a-4237-4f6d-9573-c2539247936e
+}
+java:S1854û";Remove this useless assignment to local variable "subject".(›¨£ŸşÿÿÿÿJ$16365c05-e46b-4472-a06c-86e8fbe142bf
+~
+java:S3457à"AFormat specifiers should be used instead of string concatenation.(ï¦±J$c4200884-c5c0-4bf5-a75e-4bbacdfd5a28
+ƒ
+java:S3457é"AFormat specifiers should be used instead of string concatenation.(òÎ‘½úÿÿÿÿJ$57e3015c-00be-417a-87b0-908f52ebb85d
+ƒ
+java:S3457ë"AFormat specifiers should be used instead of string concatenation.(Î¦§òÿÿÿÿÿJ$d2141eea-95cf-460f-b194-f0d6c105aab2
+~
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(™Ş¼¤J$4e6ff3c5-668f-4983-b226-73a5f421343c
+n
+java:S1481ï",Remove this unused "subject" local variable.(óÓ€âÿÿÿÿÿJ$0342387a-e29d-47c2-95f2-feee262facfe
+e	java:S108ş")Either remove or fill this block of code.(å¥‡J$7b1f2351-3b25-4415-a94c-bb6b7b8997b9
+x	java:S125€"<This block of commented-out lines of code should be removed.(Ë×ÇÏJ$afb552d6-fc25-4397-b596-6d909db24e1f
+ƒ
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(ƒ¬ş®úÿÿÿÿJ$6065717e-82e2-44f8-b933-9c762e80c3e3
+ƒ
+java:S3457Œ"AFormat specifiers should be used instead of string concatenation.(ÖâéøÿÿÿÿJ$571b736d-5ae5-4ffd-8ff8-54a93287336b
+~
+java:S3457"AFormat specifiers should be used instead of string concatenation.(â¬şJ$08399068-d72b-434d-ba8b-17ceda7a19ff
+ƒ
+java:S3457ª"AFormat specifiers should be used instead of string concatenation.(äêï–üÿÿÿÿJ$51de6e22-344f-4ee6-b40f-242c39fbb360
+~
+java:S3457«"AFormat specifiers should be used instead of string concatenation.(Ãùâ€J$d103b2ed-ffac-4cac-b77b-ee9eaa64aaa5
+~
+java:S3457¬"AFormat specifiers should be used instead of string concatenation.(¡ƒ‡ÖJ$86d31f83-7702-423b-a2d9-d4facba9bc87
+~
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(ŠéŒîJ$cd649097-b63f-43ce-97bb-790a0187a8bf
+ƒ
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(äêï–üÿÿÿÿJ$a023c638-ec4c-4f17-9688-e2bf00a0c947
+~
+java:S3457Å"AFormat specifiers should be used instead of string concatenation.(ŠéŒîJ$bde0493d-73ee-4035-9695-68b23647b161
+y
+java:S1854Ö"=Remove this useless assignment to local variable "emailBody".(¹ü~J$1350bd79-ba69-4b63-856d-0645f26bbd4e
+Š
+java:S5361Ñ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(èª¦şûÿÿÿÿJ$06fdff27-8ab2-4566-b27b-19d2bafaac51
+…
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(§«ÜJ$37b9eff2-53c2-4914-a574-9fe24da17caa
+…
+java:S5361Ó"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÏèøÓJ$2237d90a-a00c-4632-a57a-cacd96aa3ca3
+Š
+java:S5361Ô"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÑùõÕûÿÿÿÿJ$59bc8d28-3de4-466c-99db-98629ad36b36
+Š
+java:S5361Õ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ˆ¬ÙıúÿÿÿÿJ$fb4c1db9-f4e0-46c6-8b6d-230906d90045
+„
+java:S5361Ö"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¹ü~J$e53da84d-e56b-4833-b4e4-9c1794173cbc
+|
+java:S1172Ú":Remove these unused method parameters "user", "featureId".(È­ø‡ûÿÿÿÿJ$ac7bc420-357d-4879-af5f-953df071e320
+x	java:S125ß"<This block of commented-out lines of code should be removed.(®ûŞÀJ$9eaf030d-4338-4fbd-b464-14743bff3155
+ƒ
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(ûŠ—ŸøÿÿÿÿJ$715a60fa-4cd3-4e59-ac6e-1917c3f53899
+y
+java:S1854ö"<Remove this useless assignment to local variable "aauditDB".(¾È†âJ$4fc329f9-987c-4565-9e99-71b48f23728f
+j
+java:S1481ö"-Remove this unused "aauditDB" local variable.(¾È†âJ$b37614be-3171-434d-b183-ff5324c8b18b
+}	java:S125ü"<This block of commented-out lines of code should be removed.(ûòÿ—øÿÿÿÿJ$720f9a6b-4a46-4501-a5d2-5494b8b24c0b
+}	java:S125„"<This block of commented-out lines of code should be removed.(î¨ÀüùÿÿÿÿJ$41f1d4c6-5c81-4b42-8d53-4a969bbe5e31
+t
+java:S1135’"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿJ$2edc8953-3cbb-4cf3-bafc-0415457e5945
+Š	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óŒ¨¿J$2dd72bcb-e600-422e-9da5-c5f7a4ba4050
+c
+java:S1452"&Remove usage of generic wildcard type.(óŒ¨¿J$729c1bfe-e146-4c75-b523-f00ad7e2f4fa
+t
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿJ$dde51d13-2ee0-48ee-a429-2d022dbb731e
+~
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(§†ŸÂJ$5d90f91f-05df-4667-81dc-a63aad9d7ef6
+‹
+java:S1172«"IRemove these unused method parameters "featureId", "publicIP", "browser".(›…›ÿÿÿÿÿJ$fd2ef242-1002-4c66-9f81-219840e2e499
+}	java:S125®"<This block of commented-out lines of code should be removed.(Ú´à¬ùÿÿÿÿJ$6f7b2a9b-371c-4b93-a098-047b14b9027f
+x	java:S125²"<This block of commented-out lines of code should be removed.(Ä™è»J$2ebd61a9-5ec3-4d32-a22d-66731923210e
+}	java:S125´"<This block of commented-out lines of code should be removed.(†¥óûşÿÿÿÿJ$a6e6b919-fcd4-4f15-be2a-fdc58a51e841
+x	java:S125¹"<This block of commented-out lines of code should be removed.(Æ»©“J$00f9a81e-ebd7-4a70-9088-6425031e7a97
+
+java:S1172Â"BRemove these unused method parameters "registration_Request", "i".(Ö‰şÁJ$7f466532-cb73-42cc-8c03-7c0ad808b194
+x	java:S125Ä"<This block of commented-out lines of code should be removed.(ê°ÊJ$95500999-e624-4000-b204-f8f276930ac9
+ˆ
+java:S6541ë"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 89 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 23 to 6.(§Ò·ÑúÿÿÿÿJ$252175c3-6d32-4b0a-84de-23a7ae3d0c06
+ƒ
+java:S6541†"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 83 to 64, Complexity from 21 to 14, Nesting Level from 4 to 2, Number of Variables from 24 to 6.(Ç©º±J$8176337c-5ed8-4e13-8f4d-fc1b7ff2ae5f

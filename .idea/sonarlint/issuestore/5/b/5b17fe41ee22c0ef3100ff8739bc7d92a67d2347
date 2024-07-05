@@ -1,0 +1,305 @@
+
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÅ·¨
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö»À“
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äôÕ×üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôù­
+S
+java:S4973Á"<Strings and Boxed types should be compared using "equals()".(äÃñ¿
+S
+java:S4973Á"<Strings and Boxed types should be compared using "equals()".(äÃñ¿
+S
+java:S4973ö"<Strings and Boxed types should be compared using "equals()".(æùïô
+S
+java:S4973¥"<Strings and Boxed types should be compared using "equals()".(øù±
+S
+java:S4973Î"<Strings and Boxed types should be compared using "equals()".(øÂ¬Á
+S
+java:S4973Î"<Strings and Boxed types should be compared using "equals()".(øÂ¬Á
+S
+java:S4973ó"<Strings and Boxed types should be compared using "equals()".(æùïô
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒø¸
+p
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àïñò
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠŒø¸
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àïñò
+S
+java:S2629"7Use the built-in formatting to construct this argument.(Á•ëãüÿÿÿÿ
+S
+java:S2629˜"7Use the built-in formatting to construct this argument.(ÌÉıúÿÿÿÿ
+S
+java:S2629š"7Use the built-in formatting to construct this argument.(²‚¥¥ùÿÿÿÿ
+S
+java:S2629È"7Use the built-in formatting to construct this argument.(úó‹Õûÿÿÿÿ
+S
+java:S2629Í"7Use the built-in formatting to construct this argument.(£õ®†úÿÿÿÿ
+S
+java:S2629Î"7Use the built-in formatting to construct this argument.(ö®üııÿÿÿÿ
+S
+java:S2629Ï"7Use the built-in formatting to construct this argument.(–‹„ÿøÿÿÿÿ
+N
+java:S2629Ù"7Use the built-in formatting to construct this argument.(ˆÎÆ
+S
+java:S2629ò"7Use the built-in formatting to construct this argument.(ãÑµÂÿÿÿÿÿ
+x
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥çêöûÿÿÿÿ
+x
+java:S2629‚"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‡±ñçÿÿÿÿÿ
+N
+java:S2629†"7Use the built-in formatting to construct this argument.(‹½Æ
+S
+java:S2629¢"7Use the built-in formatting to construct this argument.(íÔ¸¬üÿÿÿÿ
+S
+java:S2629À"7Use the built-in formatting to construct this argument.(Á•ëãüÿÿÿÿ
+S
+java:S2629Õ"7Use the built-in formatting to construct this argument.(úó‹Õûÿÿÿÿ
+S
+java:S2629Ú"7Use the built-in formatting to construct this argument.(£õ®†úÿÿÿÿ
+S
+java:S2629Û"7Use the built-in formatting to construct this argument.(ö®üııÿÿÿÿ
+S
+java:S2629Ü"7Use the built-in formatting to construct this argument.(–‹„ÿøÿÿÿÿ
+S
+java:S2629ï"7Use the built-in formatting to construct this argument.(ãÑµÂÿÿÿÿÿ
+S
+java:S2629…"7Use the built-in formatting to construct this argument.(íÔ¸¬üÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ÆíŒıÿÿÿÿ
+S
+java:S2629¥"7Use the built-in formatting to construct this argument.(Ú¥õíøÿÿÿÿ
+N
+java:S2629¹"7Use the built-in formatting to construct this argument.(ô¿Ä¶
+S
+java:S2629Ã"7Use the built-in formatting to construct this argument.(«òõ†ùÿÿÿÿ
+S
+java:S2629Ç"7Use the built-in formatting to construct this argument.(«òõ†ùÿÿÿÿ
+S
+java:S2629Ì"7Use the built-in formatting to construct this argument.(«òõ†ùÿÿÿÿ
+M
+java:S2629Ù"7Use the built-in formatting to construct this argument.(´àì	
+N
+java:S2629Ü"7Use the built-in formatting to construct this argument.(Ì™ÌË
+S
+java:S2629ã"7Use the built-in formatting to construct this argument.(º¸µêÿÿÿÿÿ
+N
+java:S2629ê"7Use the built-in formatting to construct this argument.(îúŸğ
+S
+java:S2629í"7Use the built-in formatting to construct this argument.(ıå˜ºúÿÿÿÿ
+N
+java:S2629ú"7Use the built-in formatting to construct this argument.(¤û€œ
+N
+java:S2629ş"7Use the built-in formatting to construct this argument.(¤û€œ
+N
+java:S2629ƒ"7Use the built-in formatting to construct this argument.(¤û€œ
+S
+java:S2629‰"7Use the built-in formatting to construct this argument.(Æ¯™‘øÿÿÿÿ
+S
+java:S2629Š"7Use the built-in formatting to construct this argument.(îÂŒÌüÿÿÿÿ
+N
+java:S2629 "7Use the built-in formatting to construct this argument.(ı´¿
+N
+java:S2629µ"7Use the built-in formatting to construct this argument.(¤û€œ
+l
+java:S1192Ã"PDefine a constant instead of duplicating this literal "response send: " 4 times.(«òõ†ùÿÿÿÿ
+p
+java:S1192ú"YDefine a constant instead of duplicating this literal "response send to user:  " 4 times.(¤û€œ
+l
+java:S1192š"PDefine a constant instead of duplicating this literal "User Management" 5 times.(©Úµ¢ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(üÆ¼ˆÿÿÿÿÿ
+X
+java:S6813B"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813F"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813I"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813K"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813M"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813O"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813R"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813U"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813X"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813["BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813^"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813a"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813d"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813g"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813j"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813m"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813p"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813s"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813v"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813y"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Y
+java:S6813‚"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Y
+java:S6813…"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Q	java:S125}"<This block of commented-out lines of code should be removed.(ß™ÊŠ
+R	java:S125€"<This block of commented-out lines of code should be removed.(ŸØœÑ
+n
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(é¤±Üÿÿÿÿÿ
+S
+java:S1854”"<Remove this useless assignment to local variable "UserData".(Ö»À“
+W
+java:S1854ç"@Remove this useless assignment to local variable "userroleList".(Àïñò
+B
+java:S1452‰"&Remove usage of generic wildcard type.(é¤±Üÿÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Á•ëãüÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(İîéÀùÿÿÿÿ
+]
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(ÌÉıúÿÿÿÿ
+]
+java:S3457š"AFormat specifiers should be used instead of string concatenation.(²‚¥¥ùÿÿÿÿ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(’Œ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(â“ÅĞıÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(„¨Ó˜
+]
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(øïø®úÿÿÿÿ
+X
+java:S3457Ã"AFormat specifiers should be used instead of string concatenation.(°£×
+]
+java:S3457È"AFormat specifiers should be used instead of string concatenation.(úó‹Õûÿÿÿÿ
+]
+java:S3457Í"AFormat specifiers should be used instead of string concatenation.(£õ®†úÿÿÿÿ
+]
+java:S3457Î"AFormat specifiers should be used instead of string concatenation.(ö®üııÿÿÿÿ
+]
+java:S3457Ï"AFormat specifiers should be used instead of string concatenation.(–‹„ÿøÿÿÿÿ
+X
+java:S3457Ù"AFormat specifiers should be used instead of string concatenation.(ˆÎÆ
+7
+java:S2129ï" Remove this "String" constructor(ëĞÓ
+]
+java:S3457ò"AFormat specifiers should be used instead of string concatenation.(ãÑµÂÿÿÿÿÿ
+<
+java:S2129ı" Remove this "String" constructor(Í§¹Şÿÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¥çêöûÿÿÿÿ
+]
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(‡±ñçÿÿÿÿÿ
+]
+java:S3457„"AFormat specifiers should be used instead of string concatenation.(£ÀÿÑıÿÿÿÿ
+X
+java:S3457†"AFormat specifiers should be used instead of string concatenation.(‹½Æ
+]
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(¼ñœ«üÿÿÿÿ
+X
+java:S3457Š"AFormat specifiers should be used instead of string concatenation.(ïÇœ
+]
+java:S3457Œ"AFormat specifiers should be used instead of string concatenation.(è˜Ø»şÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÌæÜÓøÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ
+]
+java:S3457¢"AFormat specifiers should be used instead of string concatenation.(íÔ¸¬üÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ÛŞ­ê
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ø—’›
+W
+java:S1854ä"@Remove this useless assignment to local variable "userroleList".(Àïñò
+=
+java:S1452¼"&Remove usage of generic wildcard type.(ø—’›
+]
+java:S3457À"AFormat specifiers should be used instead of string concatenation.(Á•ëãüÿÿÿÿ
+X
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(ÒŸÔ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(æéÊÛúÿÿÿÿ
+X
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(°£×
+]
+java:S3457Õ"AFormat specifiers should be used instead of string concatenation.(úó‹Õûÿÿÿÿ
+]
+java:S3457Ú"AFormat specifiers should be used instead of string concatenation.(£õ®†úÿÿÿÿ
+]
+java:S3457Û"AFormat specifiers should be used instead of string concatenation.(ö®üııÿÿÿÿ
+]
+java:S3457Ü"AFormat specifiers should be used instead of string concatenation.(–‹„ÿøÿÿÿÿ
+7
+java:S2129ì" Remove this "String" constructor(ëĞÓ
+]
+java:S3457ï"AFormat specifiers should be used instead of string concatenation.(ãÑµÂÿÿÿÿÿ
+<
+java:S2129ú" Remove this "String" constructor(Í§¹Şÿÿÿÿÿ
+]
+java:S3457…"AFormat specifiers should be used instead of string concatenation.(íÔ¸¬üÿÿÿÿ
+=
+java:S1452˜"&Remove usage of generic wildcard type.(ğ·‘Ù
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÆíŒıÿÿÿÿ
+]
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(ìÁÑãúÿÿÿÿ
+]
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(Ú¥õíøÿÿÿÿ
+O
+java:S1854º"8Remove this useless assignment to local variable "user".(Ç­‚û
+B
+java:S1452·"&Remove usage of generic wildcard type.(ûöë‚ùÿÿÿÿ
+X
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(ô¿Ä¶
+]
+java:S3457Ã"AFormat specifiers should be used instead of string concatenation.(«òõ†ùÿÿÿÿ
+]
+java:S3457Ç"AFormat specifiers should be used instead of string concatenation.(«òõ†ùÿÿÿÿ
+]
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(«òõ†ùÿÿÿÿ
+]
+java:S3457Ò"AFormat specifiers should be used instead of string concatenation.(«òõ†ùÿÿÿÿ
+B
+java:S1452×"&Remove usage of generic wildcard type.(µüŒÌûÿÿÿÿ
+W
+java:S3457Ù"AFormat specifiers should be used instead of string concatenation.(´àì	
+X
+java:S3457Ü"AFormat specifiers should be used instead of string concatenation.(Ì™ÌË
+]
+java:S3457ã"AFormat specifiers should be used instead of string concatenation.(º¸µêÿÿÿÿÿ
+X
+java:S3457ê"AFormat specifiers should be used instead of string concatenation.(îúŸğ
+]
+java:S3457í"AFormat specifiers should be used instead of string concatenation.(ıå˜ºúÿÿÿÿ
+R	java:S125÷"<This block of commented-out lines of code should be removed.(ü‘Å
+X
+java:S3457ú"AFormat specifiers should be used instead of string concatenation.(¤û€œ
+X
+java:S3457ş"AFormat specifiers should be used instead of string concatenation.(¤û€œ
+X
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(¤û€œ
+B
+java:S1452ˆ"&Remove usage of generic wildcard type.(‰ÙÏÖÿÿÿÿÿ
+]
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(Æ¯™‘øÿÿÿÿ
+]
+java:S3457Š"AFormat specifiers should be used instead of string concatenation.(îÂŒÌüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾È­o
+>
+java:S1125—"'Remove the unnecessary boolean literal.(á¹¨
+X
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(ı´¿
+X
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(¤û€œ
+]
+java:S1128"GRemove this unused import 'com.ceir.CeirCode.model.oam.RequestHeaders'.(¤Úÿ
+]
+java:S1128$"GRemove this unused import 'com.ceir.CeirCode.model.constants.Features'.(Ä•Ú†
+e
+java:S1128%"ORemove this unused import 'com.ceir.CeirCode.model.constants.SelfRegistration'.(ÊË©Ê
+ã
+java:S6541‰"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 120 to 64, Complexity from 18 to 14, Nesting Level from 8 to 2, Number of Variables from 35 to 6.(é¤±Üÿÿÿÿÿ

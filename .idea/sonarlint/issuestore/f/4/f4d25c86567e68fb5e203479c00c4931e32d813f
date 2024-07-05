@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îò³ª
+;
+java:S1659/"%Declare "details" on a separate line.(ŸÊñ³
+[	java:S1077"AConstructor has 8 parameters, which is greater than 7 authorized.(šÑ°¹ÿÿÿÿÿ
+V	java:S107B"AConstructor has 9 parameters, which is greater than 7 authorized.(…ş»Ü
+W	java:S107O"BConstructor has 10 parameters, which is greater than 7 authorized.(…ş»Ü
+W	java:S107^"BConstructor has 12 parameters, which is greater than 7 authorized.(…ş»Ü
+\	java:S107m"BConstructor has 11 parameters, which is greater than 7 authorized.(À™­üÿÿÿÿ
+\	java:S107{"BConstructor has 11 parameters, which is greater than 7 authorized.(À™­üÿÿÿÿ

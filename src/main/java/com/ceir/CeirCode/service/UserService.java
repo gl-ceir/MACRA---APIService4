@@ -159,12 +159,12 @@ public class UserService {
 
     @Autowired
     PropertiesReaders propertiesReader;
-    
+
     @Autowired
-	AlertDbRepo alertDb;
-    
-	@Autowired
-	AuditDBRepo auditDb;
+    AlertDbRepo alertDb;
+
+    @Autowired
+    AuditDBRepo auditDb;
 
     public ResponseEntity<?> getUsertypeData(int type) {
         try {
@@ -460,7 +460,7 @@ public class UserService {
     ;
 
 
-	public int updateUserSecurityquestion(UserProfile profile) {
+    public int updateUserSecurityquestion(UserProfile profile) {
         try {
             log.info("inside update user security question function");
             log.info("question list from profile:  " + profile.getQuestionList());
@@ -489,7 +489,8 @@ public class UserService {
     }
 
     ;
-	@Transactional(rollbackOn = Exception.class)
+
+    @Transactional(rollbackOn = Exception.class)
     public ResponseEntity<?> userRegistration(UserProfile userDetails) {
         try {
             log.info("user details----::::   " + userDetails);
@@ -722,25 +723,25 @@ public class UserService {
                             //adminUser.setUsername(username);
 
                             /*
-							 * MessageConfigurationDb messageDB = new MessageConfigurationDb();
-							 * 
-							 * messageDB = messageConfigurationDbRepository.getByTag(
-							 * "REG_NOTIFY_CEIR_ADMIN_TO_VERIFY_USER");
-							 * log.info("messageDB data by tag: "+messageDB); String
-							 * emailBody=emailContent(messageDB, user.getUserProfile(), ""); String
-							 * subject=getsubject(messageDB, user.getUserProfile(), "");
-							 * 
-							 * log.info(":::::::::::emailBody:::::"+emailBody);
-							 * 
-							 * log.info(":::::::::::subject:::::"+subject);
-							 * 
-							 * Notification noti=new
-							 * Notification(ChannelType.EMAIL,emailBody,adminUser.getId(),
-							 * 41l,adminUser.getUsername(),"User Management",
-							 * "user phone and email details validated", 1,subject,0,"users","CEIRAdmin",0);
-							 * boolean adminNotification= emailUtils.saveNoti(noti);
-							 * 
-							 * log.info("notification save:  "+adminNotification);
+                             * MessageConfigurationDb messageDB = new MessageConfigurationDb();
+                             *
+                             * messageDB = messageConfigurationDbRepository.getByTag(
+                             * "REG_NOTIFY_CEIR_ADMIN_TO_VERIFY_USER");
+                             * log.info("messageDB data by tag: "+messageDB); String
+                             * emailBody=emailContent(messageDB, user.getUserProfile(), ""); String
+                             * subject=getsubject(messageDB, user.getUserProfile(), "");
+                             *
+                             * log.info(":::::::::::emailBody:::::"+emailBody);
+                             *
+                             * log.info(":::::::::::subject:::::"+subject);
+                             *
+                             * Notification noti=new
+                             * Notification(ChannelType.EMAIL,emailBody,adminUser.getId(),
+                             * 41l,adminUser.getUsername(),"User Management",
+                             * "user phone and email details validated", 1,subject,0,"users","CEIRAdmin",0);
+                             * boolean adminNotification= emailUtils.saveNoti(noti);
+                             *
+                             * log.info("notification save:  "+adminNotification);
                              */
                             emailUtils.saveNotification("REG_NOTIFY_CEIR_ADMIN_TO_VERIFY_USER",
                                     adminUser.getUserProfile(), 8, "Registration Request",
@@ -1640,11 +1641,11 @@ public class UserService {
             log.info("inside into update user profile");
             log.info("user profile data:  :  " + userProfile);
             UserProfile userProfileData = userProfileRepo.findById(userProfile.getId());
-             log.info("user  ");
+            log.info("user  ");
             if (userProfile.getPassword().equals(userProfileData.getUser().getPassword())) {
                 log.info("user profile data by id:  " + userProfileData);
                 /*
-				 * long mainRole=roleCheck(userProfile.getRoles()); if(mainRole>0) {
+                 * long mainRole=roleCheck(userProfile.getRoles()); if(mainRole>0) {
                  */
                 User userData = userRepo.findByUserProfile_Id(userProfile.getId());
                 log.info("user as userData:  " + userData);
@@ -1716,7 +1717,7 @@ public class UserService {
 
                     }
                     UpdateProfileResponse response = new UpdateProfileResponse(msg, 200, UserStatus.getUserStatusByCode(userData.getCurrentStatus()).getDescription(),
-                             output.getUser().getId(), tag);
+                            output.getUser().getId(), tag);
                     log.info("response send to user:  " + response);
                     return new ResponseEntity<>(response, HttpStatus.OK);
                 } else {
@@ -2012,8 +2013,8 @@ public class UserService {
 //			AuditTrail auditTrail=new AuditTrail(user.getId(), user.getUsername(),
 //					user.getUsertype().getId(),user.getUsertype().getUsertypeName(), featureId,
 //					feature, subFeature,"0","NA",user.getUsertype().getUsertypeName());
-           
-AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, "",propertiesReader.moduleName,propertiesReader.serverName);
+
+            AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, "", propertiesReader.moduleName, propertiesReader.serverName);
 
             log.info("going to save audit trail=" + auditTrail);
             AuditTrail output = audiTrailRepoService.saveAuditTrail(auditTrail);
@@ -2031,24 +2032,24 @@ AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, ""
 
     public int saveUserTrail(long userId, String username, String userType, long userTypeId, String feature, String subFeature, long featureId, String publicIp, String browser) {
         try {
-           AuditTrail auditTrail =  new AuditTrail(0, "Success", "", feature, subFeature, "",propertiesReader.moduleName,propertiesReader.serverName);
-          
-			
-			  AuditDB aauditDB=new AuditDB(userId, username, userTypeId, userType,
-			  featureId, Features.Alert_Management, SubFeatures.VIEW_ALL, "", "NA",
-			  "",publicIp,browser);
-			 
+            AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, "", propertiesReader.moduleName, propertiesReader.serverName);
+
+
+            AuditDB aauditDB = new AuditDB(userId, username, userTypeId, userType,
+                    featureId, Features.Alert_Management, SubFeatures.VIEW_ALL, "", "NA",
+                    "", publicIp, browser);
+
 //                    new AuditTrail(userId, username,
 //                    userTypeId, userType, featureId,
 //                    feature, subFeature, "0", "NA", userType, publicIp, browser);
-            
-        	auditDb.save(new AuditDB(userId, username,
-        			userTypeId, userType,
-        			featureId, feature, "Login", "", "NA",
-					"SystemAdmin",publicIp,browser));
+
+            auditDb.save(new AuditDB(userId, username,
+                    userTypeId, userType,
+                    featureId, feature, "Login", "", "NA",
+                    "SystemAdmin", publicIp, browser));
             log.info("going to save audit trail with request:::::%%%%");
-          AuditTrail output = audiTrailRepoService.saveAuditTrail(auditTrail);
-          //  AuditDB au=alertDb.save(aauditDB);
+            AuditTrail output = audiTrailRepoService.saveAuditTrail(auditTrail);
+            //  AuditDB au=alertDb.save(aauditDB);
             if (output != null) {
                 log.info("audit trail sucessfully save");
             } else {
@@ -2090,19 +2091,19 @@ AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, ""
     public int saveUserTrail1(User user, String feature, String subFeature, long featureId, String publicIP, String browser) {
         try {
 
-         //   AuditTrail auditTrail =  new AuditTrail(0, "Success", "", feature, subFeature, "" ,propertiesReader.moduleName,propertiesReader.serverName);
+            //   AuditTrail auditTrail =  new AuditTrail(0, "Success", "", feature, subFeature, "" ,propertiesReader.moduleName,propertiesReader.serverName);
 
 //                    new AuditTrail(user.getId(), user.getUsername(),
 //                    user.getUsertype().getId(), user.getUsertype().getUsertypeName(), featureId,
 //                    feature, subFeature, "0", "NA", user.getUsertype().getUsertypeName(), publicIP, browser);
-           
-           // log.info("going to save audit trail" + auditTrail);
-        	auditDb.save(new AuditDB(user.getUserId(), user.getUsername(),
-					Long.valueOf(user.getUserTypeId()), user.getUserType(),
-					Long.valueOf(user.getFeatureId()), feature, subFeature, "", "NA",
-					"SystemAdmin",user.getPublicIp(),user.getBrowser()));
-          //  AuditTrail output = audiTrailRepoService.saveAuditTrail(auditTrail);
-           
+
+            // log.info("going to save audit trail" + auditTrail);
+            auditDb.save(new AuditDB(user.getUserId(), user.getUsername(),
+                    Long.valueOf(user.getUserTypeId()), user.getUserType(),
+                    Long.valueOf(user.getFeatureId()), feature, subFeature, "", "NA",
+                    user.getUserType(), user.getPublicIp(), user.getBrowser()));
+            //  AuditTrail output = audiTrailRepoService.saveAuditTrail(auditTrail);
+
             return 1;
         } catch (Exception e) {
             log.info(e.toString());
@@ -2111,15 +2112,14 @@ AuditTrail auditTrail = new AuditTrail(0, "Success", "", feature, subFeature, ""
     }
 
     public void saveUserTrail(User userData, String registration_Request, String feature, int i, String publicIp, String browser) {
-           try {
-         //   AuditTrail auditTrail =  new AuditTrail(0, "Success", "", registration_Request, feature, "",propertiesReader.moduleName,propertiesReader.serverName);
-
+        try {
+            //   AuditTrail auditTrail =  new AuditTrail(0, "Success", "", registration_Request, feature, "",propertiesReader.moduleName,propertiesReader.serverName);
             log.info("going to save in audit tail tables.");
-          
-        	auditDb.save(new AuditDB(userData.getUserId(), userData.getUsername(),
-					Long.valueOf(userData.getUserTypeId()), "SystemAdmin",
-					Long.valueOf(userData.getFeatureId()), feature, "Login", "", "NA",
-					"SystemAdmin",publicIp,browser));
+
+            auditDb.save(new AuditDB(userData.getUserId(), userData.getUsername(),
+                    Long.valueOf(userData.getUserTypeId()), userData.getUserType(),
+                    Long.valueOf(userData.getFeatureId()), "Login", feature, "", "NA",
+                    userData.getUserType(), publicIp, browser));
         } catch (Exception e) {
             log.info(e.toString());
         }
